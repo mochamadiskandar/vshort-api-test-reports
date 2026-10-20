@@ -5,12 +5,10 @@ This repository hosts static HTML test execution reports generated from APIDog f
 ## 🚀 Live Access
 
 Reports are served via GitHub Pages at:
-`https://mochamadiskandar.github.io/vshort-api-test-reports/<report-filename>.html`
+`https://mochamadiskandar.github.io/vshort-api-test-reports/<filename>.html`
 
 ## 📁 Repository Structure
 
 ```text
 ├── README.md
-├── reports/
-│   ├── apidog-report-featureName1.html
-│   └── apidog-report-featureName2.html
+│   ├── apidog-report-featureName.html
