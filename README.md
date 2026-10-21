@@ -11,4 +11,4 @@ Reports are served via GitHub Pages at:
 
 ```text
 ├── README.md
-│   ├── apidog-report-featureName.html
+│   ├── featureName.html
